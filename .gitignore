@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+node_modules/
+dist/
+data/*.index
+data/*.json
+data/*.sqlite
+backend/.coverage
+frontend/.vite/
+npm-debug.log*
+work/
+outputs/
